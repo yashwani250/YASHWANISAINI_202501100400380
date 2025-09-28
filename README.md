@@ -1,37 +1,44 @@
 # YASHWANISAINI_202501100400380
 
-**TRAVELO** ek simple HTML-based travel promotion webpage hai jo exciting destinations, offers, packages aur travel essentials ko highlight karta hai. Yeh project basic HTML concepts ko demonstrate karta hai jaise ki:
 
-- Headings
-- Paragraphs
-- Ordered & Unordered Lists
-- Tables
-- Images
-- Links
-- Inline CSS Styling
+**TRAVELO** is a simple HTML-based travel promotional webpage that highlights exciting destinations, offers, packages, and essential travel items. This project also demonstrates basic HTML concepts for beginners.
 
 ---
 
-## ✨ Highlights
+## ✨ Features
 
-- 💸 Special Offer: Grand Travel Fest – Upto ~~20%~~ 35% OFF
-- 🏖️ Top Travel Destinations listed (Paris, Dubai, Bali, etc.)
-- 📦 Travel Essentials checklist
-- 📊 Table showing destinations, duration & pricing
-- 📚 Web Development terms explained
-- 🎨 Basic styling using inline CSS
+- 💸 Grand Travel Fest: Up to ~~20%~~ **35% OFF**
+- 🌍 List of top travel destinations (Paris, Dubai, Bali, etc.)
+- 🧳 Travel essentials checklist
+- 📊 Pricing table with destination, duration, and cost
+- 🧠 Includes web development terms (HTML, CSS, JavaScript)
+- 🎨 Basic inline CSS styling
+- 🖼️ Travel-related images and external links
 
+- ## 🛠️ How to Use
 
-📞 Contact
+1. Clone or download the repository
+2. Open `index.html` in any modern web browser
+3. Explore the page and its features
+
+---
+
+## 📞 Contact
 
 - 🌐 [Book Now](https://www.makemytrip.com/)
-- 📱 Contact Us: +91 9045871493
+- 📱 Phone: +91 9045871493
 
 ---
 
-## 🧠 Learnings
+## 🧠 What You’ll Learn
 
-Is project ke zariye aap HTML ke basic elements aur unka structure achhi tarah samajh sakte hain — perfect for beginners who are just starting web development.
+This project is perfect for beginners looking to understand:
+
+- Basic HTML structure and tags
+- How to use lists, tables, links, and images
+- Styling with inline CSS
+- Semantic HTML elements
+- Adding comments for code clarity
 
 ---
 
